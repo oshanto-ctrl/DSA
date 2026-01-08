@@ -31,7 +31,7 @@ arr = [2, 3, 3, 5, 5, 5, 6, 6]
 target = 2
 # target = -1
 result_index = last_occurence(arr, target)
-if result_index >= 0:
+if result_index >=   0:
     print(f"Target = {target} Found at index {result_index}")
 else:
     print(f"Wasn't found any last occurence. Returned with {result_index}")
