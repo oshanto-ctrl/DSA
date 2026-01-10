@@ -21,5 +21,4 @@ while temp_head is not None:
     if temp_head.next is not None:
         print(" -> ", end="")
     temp_head = temp_head.next
-print()
 
