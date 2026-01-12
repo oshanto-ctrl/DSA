@@ -13,6 +13,8 @@ head.next = Node(20)
 head.next.next = Node(30)
 # Link the fourth with third node
 head.next.next.next = Node(40)
+# Link the fifth with fourth node
+head.next.next.next = Node(50)
 
 # traverse the linked list
 temp_head = head
